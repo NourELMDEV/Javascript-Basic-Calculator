@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+    display: flex;
+    display: grid;
+    margin: auto;
+    justify-content: center;
+}
+body{
+background-image: url('https://www.thoughtco.com/thmb/dJ_Uu0ihjpMDrPH5OLWSsEZP288=/2576x2576/smart/filters:no_upscale()/high-angle-view-of-calculator-with-notepad-and-pencil-on-table-651480447-57dc12333df78c9cce916681.jpg');
+background-repeat: no-repeat;    
+background-position-y: -500px;
+background-position-x: -700px;
+}
+.bg{
+    background-color: #E4EFE7;
+    width: 500px;
+    padding: 10px;
+}
